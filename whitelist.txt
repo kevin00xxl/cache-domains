@@ -1,7 +1,1 @@
-*.net
-*.com
-*.nl
-*.au
-*.cn
-*.uk
-*.gg
+!*.xs4all.nl
