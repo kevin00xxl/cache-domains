@@ -1,0 +1,9 @@
+{
+	"cache_domains": [
+		{
+			"name": "cache-all",
+			"description": "cache-all",
+			"domain_files": ["cache-all.txt"]
+		}
+	]
+}
