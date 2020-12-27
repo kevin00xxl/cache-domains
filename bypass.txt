@@ -1,7 +1,7 @@
-crl.apple.com 
-*.entrust.net 
-*.digicert.com 
-ocsp.apple.com 
-*.verisign.net 
+crl.apple.com
+*.entrust.net
+*.digicert.com
+ocsp.apple.com
+*.verisign.net
 *.xs4all.nl
 *.thinkbroadband.com
