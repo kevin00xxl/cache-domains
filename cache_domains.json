@@ -1,14 +1,14 @@
 {
 	"cache_domains": [
 		{
-			"name": "bypass-cache",
+			"name": "bypass",
 			"description": "Bypass Cache",
-			"domain_files": ["bypass-cache.txt"]
+			"domain_files": ["bypass.txt"]
 		},
 		{
-			"name": "cache-all",
+			"name": "all",
 			"description": "Cache All",
-			"domain_files": ["cache-all.txt"]
+			"domain_files": ["all.txt"]
 		}
 	]
 }
